@@ -28,7 +28,7 @@ Con [Pusher](https://pusher.com/) puedes transformar tu aplicación web con Lara
 
 ## Capturas
 
-[![ScreenShot](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)]
+[![ScreenShot](https://raw.githubusercontent.com/emanuelnogueiras/laravel-chat/master/2020-03-16%2015_42_57-Window.png)]
 
 
 ## Vídeo Demostrativo
