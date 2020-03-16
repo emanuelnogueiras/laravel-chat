@@ -26,7 +26,13 @@ _[Pusher](https://pusher.com/) es gratis para el envío de hasta 200.000 notific
 
 Con [Pusher](https://pusher.com/) puedes transformar tu aplicación web con Laravel en una aplicación "VIVA", generando notificaciones "Push" en tiempo real que favorecen la dinámica de tu web. **Tus clientes te lo agradecerán**.
 
+## Capturas
+
+[![ScreenShot](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)]
+
+
 ## Vídeo Demostrativo
 _Aquí te dejo un vídeo del funcionamiento y algunas explicaciones de este proyecto_
 
 **pendiente de subir**
+
