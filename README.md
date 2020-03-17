@@ -34,5 +34,5 @@ Con [Pusher](https://pusher.com/) puedes transformar tu aplicación web con Lara
 ## Vídeo Demostrativo
 _Aquí te dejo un vídeo del funcionamiento y algunas explicaciones de este proyecto_
 
-**pendiente de subir**
+[![Watch the video](https://i.ibb.co/mG83wcw/captura-video.png)](https://www.youtube.com/watch?v=bvAPf8z_bDk)
 
